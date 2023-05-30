@@ -12,7 +12,7 @@ This repo contains content that supports the workshop.
 
 # Examples
 
-```
+```typescript
 // Define a function to print "Hello, World!"
 function printHelloWorld(): void {
   console.log("Hello, World!");
